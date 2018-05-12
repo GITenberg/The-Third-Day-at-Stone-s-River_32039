@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '35630'
     url: http://www.gutenberg.org/2009/agents/35630
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32039#The-Third-Day-at-Stone-s-River
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-04-18'
 gutenberg_type: Text
